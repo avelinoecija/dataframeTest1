@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5c00780a953cbcc6f465489f"},"nombre":"Guadalquivir"}
+{"_id":{"$oid":"5c007a97953cbcc6f46548a0"},"nombre":"Guadiana"}
+{"_id":{"$oid":"5c007ccc953cbcc6f46548a1"},"nombre":"Tajo"}
+{"_id":{"$oid":"5c007d5e953cbcc6f46548a2"},"nombre":"Ebro"}
+{"_id":{"$oid":"5c007d83953cbcc6f46548a3"},"nombre":"Duero"}
+{"_id":{"$oid":"5c007dad953cbcc6f46548a4"},"nombre":"Miño"}
+{"_id":{"$oid":"5c007dd0953cbcc6f46548a5"},"nombre":"Segura"}
+{"_id":{"$oid":"5c007e83953cbcc6f46548a6"},"nombre":"Jucar"}
+{"_id":{"$oid":"5c007ebc953cbcc6f46548a7"},"nombre":"Turia"}
+{"_id":{"$oid":"5c007ef9953cbcc6f46548a8"},"nombre":"Genil"}
